@@ -9,3 +9,4 @@ p.52 - IfDemo.java
 p.53 - ForDemo.java
 p.55 - BlockDemo.java
 p.57 - GalToLitTable.java
+p.61 - InchToMeter.java
