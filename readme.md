@@ -14,3 +14,4 @@ p.61 - InchToMeter.java
 Chapter 02:
 p.67 - Hypot.java
 p.69 - CharArithDemo.java
+p.70 - BoolDemo.java
