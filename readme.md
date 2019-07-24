@@ -20,3 +20,4 @@ p.74 - StrDemo.java
 p.76 - DynInit.java
 p.78 - ScopeDemo.java
 p.79 - VarInitDemo.java
+p.80 - NestVar.java
