@@ -18,3 +18,4 @@ p.70 - BoolDemo.java
 p.71 - Sound.java
 p.74 - StrDemo.java
 p.76 - DynInit.java
+p.78 - ScopeDemo.java
