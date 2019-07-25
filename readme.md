@@ -22,3 +22,4 @@ p.78 - ScopeDemo.java
 p.79 - VarInitDemo.java
 p.80 - NestVar.java
 p.81 - ModDemo.java
+p.84 - RelLogOps.java
