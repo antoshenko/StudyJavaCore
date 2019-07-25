@@ -23,5 +23,8 @@ p.79 - VarInitDemo.java
 p.80 - NestVar.java
 p.81 - ModDemo.java
 p.84 - RelLogOps.java
+p.85 - SCops.java
+p.86 - SideEffects.java
+p.90 - CastDemo.java
 p.93 - LogicalOpTable1.java
 p.93 - LogicalOpTable2.java
