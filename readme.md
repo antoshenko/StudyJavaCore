@@ -29,3 +29,4 @@ p.90 - CastDemo.java
 p.93 - LogicalOpTable1.java
 p.93 - LogicalOpTable2.java
 p.94 - PromDemo.java
+p.95 - UseCast.java
