@@ -28,3 +28,4 @@ p.86 - SideEffects.java
 p.90 - CastDemo.java
 p.93 - LogicalOpTable1.java
 p.93 - LogicalOpTable2.java
+p.94 - PromDemo.java
