@@ -35,3 +35,4 @@ p.97 - PrimeNumber.java
 Chapter 03:
 p.101 - KnIn.java
 p.108 - NoBreak.java
+p.113 - SqrtRoot.java
