@@ -40,3 +40,4 @@ p.113 - DecrFor.java
 p.114 - Comma.java
 p.115 - ForTest.java
 p.117 - Empty3.java
+p.118 - ForVar.java
