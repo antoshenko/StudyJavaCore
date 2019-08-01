@@ -9,4 +9,17 @@ class Vehicle {
     void range() {
         System.out.println("Дальность - " + fuelcap * mpg + " миль.");
     }
+
+    int range2() {
+        return mpg * fuelcap;
+    }
+
+    void myMeth() {
+        int i;
+
+        for (i = 0; i < 10; i++) {
+            if (i == 5) return; // Завершение цикла после достижения значения 5
+            System.out.println();
+        }
+    }
 }
