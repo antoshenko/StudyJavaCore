@@ -61,3 +61,4 @@ p.137 - For1000to0Step2.java
 p.137 - ReadSymbolsASCII.java
 
 Chapter 04:
+p.143 - Vehicle.java, VehicleDemo.java
