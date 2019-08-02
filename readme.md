@@ -72,3 +72,4 @@ p.160 - Help.java, HelpClassDemo.java
 p.165 - VehConsDemo.java
 
 Chapter 05:
+p.174 - ArrayDemo.java
