@@ -75,3 +75,4 @@ Chapter 05:
 p.174 - ArrayDemo.java
 p.175 - MinMax.java
 p.175 - MinMax2.java
+p.176 - ArrayErr.java
