@@ -10,6 +10,7 @@ class Vehicle {
         System.out.println("Дальность - " + fuelcap * mpg + " миль.");
     }
 
+    // Определение дальности поездки транспортного средства
     int range2() {
         return mpg * fuelcap;
     }
@@ -21,5 +22,10 @@ class Vehicle {
             if (i == 5) return; // Завершение цикла после достижения значения 5
             System.out.println();
         }
+    }
+
+    // Расчет количества топлива, необходимого транспортному средству для преодоления заданного расстояния
+    double fuelneeded(int miles) {
+        return (double) miles / mpg;
     }
 }
