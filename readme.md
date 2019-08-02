@@ -67,3 +67,6 @@ p.148 - AddMeth.java
 p.152 - RetMeth.java
 p.154 - ChkNum.java, ParmDemo.java
 p.155 - Factor.java, isFact.java
+p.156 - CompFuel.java
+p.160 - Help.java, HelpClassDemo.java
+p.165 - VehConsDemo.java
