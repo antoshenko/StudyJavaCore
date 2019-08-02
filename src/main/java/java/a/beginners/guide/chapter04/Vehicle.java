@@ -5,6 +5,12 @@ class Vehicle {
     int fuelcap;    // емкость топливного бака
     int mpg;        // потребление топлива в милях на галлон
 
+    Vehicle(int p, int f, int m) {
+        passengers = p;
+        fuelcap = f;
+        mpg = m;
+    }
+
     // Отображение дальности поездки транспортного средства
     void range() {
         System.out.println("Дальность - " + fuelcap * mpg + " миль.");

@@ -2,8 +2,10 @@ package main.java.java.a.beginners.guide.chapter04;
 
 public class TwoVehicle {
     public static void main(String[] args) {
-        Vehicle minivan = new Vehicle();
-        Vehicle sportscar = new Vehicle();
+        //Vehicle minivan = new Vehicle();
+        //Vehicle sportscar = new Vehicle();
+        Vehicle minivan = new Vehicle(0, 0, 0);
+        Vehicle sportscar = new Vehicle(0, 0, 0);
 
         int range1, range2;
 
@@ -20,8 +22,8 @@ public class TwoVehicle {
         range2 = sportscar.fuelcap * sportscar.mpg;
 
         System.out.println("Мини-фургон может перевезти " +
-                            minivan.passengers + " пассажиров на расстояние " + range1 + " миль");
+                minivan.passengers + " пассажиров на расстояние " + range1 + " миль");
         System.out.println("Спортивный автомобиль может перевезти " +
-                            sportscar.passengers + " пассажиров на расстояние " + range2 + " миль");
+                sportscar.passengers + " пассажиров на расстояние " + range2 + " миль");
     }
 }

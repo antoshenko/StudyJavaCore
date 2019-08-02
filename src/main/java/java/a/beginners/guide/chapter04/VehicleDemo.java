@@ -2,7 +2,9 @@ package main.java.java.a.beginners.guide.chapter04;
 
 public class VehicleDemo {
     public static void main(String[] args) {
-        Vehicle minivan = new Vehicle();
+        //Vehicle minivan = new Vehicle();
+        Vehicle minivan = new Vehicle(0, 0, 0);
+
         int range;
 
         minivan.passengers = 7;
