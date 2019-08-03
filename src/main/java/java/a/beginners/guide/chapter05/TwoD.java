@@ -1,4 +1,4 @@
-package main.java.java.a.beginners.guide.chapter04;
+package main.java.java.a.beginners.guide.chapter05;
 
 public class TwoD {
     public static void main(String[] args) {
