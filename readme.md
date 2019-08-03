@@ -79,3 +79,4 @@ p.176 - ArrayErr.java
 p.177 - Bubble.java
 p.179 - TwoD.java
 p.180 - Ragged.java
+p.182 - Squares.java
