@@ -92,3 +92,4 @@ p.198 - StrOps.java
 p.199 - StringArrays.java
 p.201 - SubStr.java
 p.204 - Phone.java
+p.206 - UpCase.java
