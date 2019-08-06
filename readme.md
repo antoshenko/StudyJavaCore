@@ -99,3 +99,5 @@ p.216 - NoZeroDiv.java
 p.217 - NoZeroDiv2.java
 p.218 - ArithmeticalMean.java
 p.218 - SortStringArray.java
+
+Chapter 06:
