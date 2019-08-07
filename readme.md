@@ -108,3 +108,4 @@ p.227 - Block.java, PassOb.java
 p.229 - Test.java, CallByValue.java
 p.230 - Test.java, CallByRef.java
 p.231 - ErrorMsg.java, ErrMsg.java
+p.232 - Err.java, ErrorInfo.java, ErrInfo.java
