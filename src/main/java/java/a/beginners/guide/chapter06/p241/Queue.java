@@ -17,7 +17,7 @@ class Queue {
         q = new char[ob.q.length];
 
         // Copy items to the queue
-        for (int i = getloc + 1; i <= putloc; i++)
+        for (int i = getloc; i <= putloc; i++) // error: "for (int i = getloc + 1; i <= putloc; i++)"
             q[i] = ob.q[i];
     }
 

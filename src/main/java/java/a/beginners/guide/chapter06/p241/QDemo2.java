@@ -34,6 +34,7 @@ class QDemo2 {
         }
 
         System.out.println("\n");
+
         System.out.print("Content q3: ");
         for (i = 0; i < 10; i++) {
             ch = q3.get();
