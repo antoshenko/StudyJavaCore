@@ -119,3 +119,4 @@ Code Package & Two Key JDK 10 Features
 https://www.mhprofessional.com/9781259589317-usa-java-a-beginners-guide-seventh-edition-group
 
 p.244 - Factorial.java, Recursion.java
+p.247 - SDemo.java, StaticDemo.java
