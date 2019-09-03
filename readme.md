@@ -121,3 +121,4 @@ https://www.mhprofessional.com/9781259589317-usa-java-a-beginners-guide-seventh-
 p.244 - Factorial.java, Recursion.java
 p.247 - SDemo.java, StaticDemo.java
 p.248 - SDemo2.java, StaticMeth.java
+p.250 - SDemo3.java, StaticBlock.java
