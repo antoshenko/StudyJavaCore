@@ -131,3 +131,4 @@ p.260 - VarArgs3.java
 
 Chapter 07:
 p.267 - Shapes.java, Triangle.java, TwoDShape.java 
+p.271 - Shapes2.java, Triangle.java, TwoDShape.java 
