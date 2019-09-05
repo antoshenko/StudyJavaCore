@@ -29,11 +29,14 @@ class LocalClassDemo {
                 System.out.println();
             }
         }
-        for (byte b = 0; b < 10; b++) {
-            ShowBits byteval = new ShowBits(8);
 
+        ShowBits byteval = new ShowBits(8);
+
+        for (byte b = 0; b < 10; b++) {
             System.out.print(b + " in binary: ");
             byteval.show(b);
         }
+
     }
+
 }

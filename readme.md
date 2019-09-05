@@ -125,3 +125,4 @@ p.250 - SDemo3.java, StaticBlock.java
 p.251 - QSDemo.java, Quicksort.java (doesn't work)
 p.254 - Outer.java, QNestedClassDemo.java
 p.255 - LocalClassDemo.java
+p.258 - VarArgs.java
