@@ -126,3 +126,4 @@ p.251 - QSDemo.java, Quicksort.java (doesn't work)
 p.254 - Outer.java, QNestedClassDemo.java
 p.255 - LocalClassDemo.java
 p.258 - VarArgs.java
+p.259 - VarArgs2.java
