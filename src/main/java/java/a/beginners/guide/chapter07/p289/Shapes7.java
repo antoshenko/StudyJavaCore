@@ -2,8 +2,7 @@ package main.java.java.a.beginners.guide.chapter07.p289;
 
 class Shapes7 {
     public static void main(String args[]) {
-        Triangle t1 =
-                new Triangle("outlined", 8.0, 12.0);
+        Triangle t1 = new Triangle("outlined", 8.0, 12.0);
 
         // make a copy of t1
         Triangle t2 = new Triangle(t1);
