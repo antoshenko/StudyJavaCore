@@ -139,3 +139,4 @@ p.279 - UseSuper.java, A.java, B.java
 p.280 - Truck.java, Vehicle.java, TruckDemo.java
 p.283 - Shapes6.java, Triangle.java, TwoDShape.java, ColorTriangle.java
 p.287 - SupSubRef.java, X.java, Y.java
+p.289 - Shapes7.java, Triangle.java, TwoDShape.java
