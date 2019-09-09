@@ -137,3 +137,4 @@ p.275 - Shapes4.java, Triangle.java, TwoDShape.java
 p.276 - Shapes5.java, Triangle.java, TwoDShape.java
 p.279 - UseSuper.java, A.java, B.java
 p.280 - Truck.java, Vehicle.java, TruckDemo.java
+p.283 - Shapes6.java, Triangle.java, TwoDShape.java, ColorTriangle.java
