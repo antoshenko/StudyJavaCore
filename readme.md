@@ -130,9 +130,10 @@ p.259 - VarArgs2.java
 p.260 - VarArgs3.java
 
 Chapter 07:
-p.267 - Shapes.java, Triangle.java, TwoDShape.java 
-p.271 - Shapes2.java, Triangle.java, TwoDShape.java 
-p.273 - Shapes3.java, Triangle.java, TwoDShape.java 
-p.275 - Shapes4.java, Triangle.java, TwoDShape.java 
-p.276 - Shapes5.java, Triangle.java, TwoDShape.java 
-p.279 - UseSuper.java, A.java, B.java 
+p.267 - Shapes.java, Triangle.java, TwoDShape.java
+p.271 - Shapes2.java, Triangle.java, TwoDShape.java
+p.273 - Shapes3Л.java, Triangle.java, TwoDShape.java 
+p.275 - Shapes4.java, Triangle.java, TwoDShape.java
+p.276 - Shapes5.java, Triangle.java, TwoDShape.java
+p.279 - UseSuper.java, A.java, B.java
+p.280 - Truck.java, Vehicle.java, TruckDemo.java
