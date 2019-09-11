@@ -147,3 +147,4 @@ p.297 - DynShapes.java, Triangle.java, Rectangle.java, TwoDShape.java
 p.302 - AbsShape.java, Triangle.java, Rectangle.java, TwoDShape.java
 
 Chapter 08:
+p.319 - Book.java, ExtBook.java
